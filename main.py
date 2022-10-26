@@ -5,7 +5,6 @@ import helpers
 
 
 def inicio():
-    
     finalizar= False
     helpers.clear() #Limpia la terminal
 
